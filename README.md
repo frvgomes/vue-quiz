@@ -23,3 +23,6 @@ yarn lint
 ### Recursos
 Open Trivia para buscar as perguntas
 https://opentdb.com/api_config.php
+
+Vue Axios para consumir api´s com vue
+https://www.npmjs.com/package/vue-axios
