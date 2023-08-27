@@ -19,3 +19,7 @@ yarn build
 ```
 yarn lint
 ```
+
+### Recursos
+Open Trivia para buscar as perguntas
+https://opentdb.com/api_config.php
